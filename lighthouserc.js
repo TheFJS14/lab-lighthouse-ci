@@ -4,13 +4,12 @@ module.exports = {
       startServerCommand: "npm start",
       numberOfRuns: 1,
       url: [
-        "https://biznagafest.com/"
-        // "http://localhost:3000/",
-        // "http://localhost:3000/about",
-        // "http://localhost:3000/blog",
-        // "http://localhost:3000/feature",
-        // "http://localhost:3000/product",
-        // "http://localhost:3000/testimonial",
+        "http://localhost:3000/",
+        "http://localhost:3000/about",
+        "http://localhost:3000/blog",
+        "http://localhost:3000/feature",
+        "http://localhost:3000/product",
+        "http://localhost:3000/testimonial",
       ],
     },
     upload: {
